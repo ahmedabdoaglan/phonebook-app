@@ -1,0 +1,16 @@
+.button {
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.primary {
+  background-color: #4caf50;
+}
+.danger {
+  background-color: #de0b0b;
+}
